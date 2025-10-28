@@ -12,7 +12,7 @@ people do so, portable time
 9. Uncheck all the boxes.
 10. Press Win+R (the Win button is the button with 4 squares on it on the keyboard)
 11. Type exactly "%appdata%
-12. 12. Go to the .minecraft folder
+12. Go to the .minecraft folder
 13. Copy the Tlauncher.exe
 14. Paste it into the TLP folder (or the folder name)
 15. Go back to the Appdata folder and delete .minecraft and .tlauncher
