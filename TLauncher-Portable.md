@@ -1,4 +1,6 @@
-TLauncher-Portable ================== I don\'t like TL but lots of
+TLauncher-Portable 
+==================
+I don\'t like TL but lots of
 people do so, portable time
 
 1. create a folder I will name it \"TLP\" for this tutorial.
@@ -23,13 +25,14 @@ people do so, portable time
 20. Delete text document but keep the .bat file
 21. DONE! Always start it from Start.bat
 
-NOTES ===== If you are using a different java then probably make ai to
-remake it for your java All links used in my opinion safe but if
-anything bad happens to it its YOUR responsibility. Only works for
-windows. The portable Java might not work if you are running a newer
-version of MC, example : java 8 on 1.21 (not compatible) Tlauncher is
-recognised as SPYWARE so do NOT use a Mojang account, use prism launcher
-if you have a real account Tlauncher is also cracked so it is illegal
-(piracy) Use at your own Risk!
+NOTES 
+=====
+If you are using a different java then probably make ai to remake it for your java.
+All links used in my opinion safe but if anything bad happens to it its YOUR responsibility.
+Only works for windows. 
+The portable Java might not work if you are running a newer version of MC, example : java 8 on 1.21. (not compatible) Tlauncher is recognised as SPYWARE so do NOT use a Mojang account, use prism launcher if you have a real account.
+Tlauncher is also cracked so it is illegal (piracy) Use at your own Risk!
 
-Sign Off ======== Thank you for reading this
+Sign Off 
+========
+Thank you for reading this
