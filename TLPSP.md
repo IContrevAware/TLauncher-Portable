@@ -1,3 +1,8 @@
+STARTING NOTES
+==============
+if you havent read the README.md then do. also, read the ALSO part at the bottom (because i dont want to waste your time at the start). 
+
+
 1. Codes, DL=Drive letter aka D:\ drive │ MFN= Main folder (name) │ M-F= Main-Folder
 2. Download starter pack from the releases
 3. Ensure you have windows and you can use the exes in the starter pack.
@@ -17,14 +22,17 @@ Additional. If you arent smart in computers probably ask AI to fit it.
 NOTES
 ===== 
 If you are using a different java then probably make AI to remake it for your java if you arent smart in computers.
-All links used in my opinion safe but if anything bad happens to it its YOUR responsibility.
+All files used in my opinion safe but if someone hacks it or something its YOUR responsibility.
 Only works for windows. 
 The portable Java might not work if you are running a newer version of MC, example : java 8 on 1.21 (not compatible).
 Tlauncher is recognised as SPYWARE so do NOT use a Mojang account, use prism launcher if you have a real account 
-Tlauncher is also cracked so it is illegal (piracy) Use at your own Risk!
+Tlauncher is also cracked so it is illegal (piracy) Use at your own Risk! And I am NOT encouraging you to do this.
 
 Additonal Links
 ==============
 I reccomend : go to https://adoptium.net/en-GB/temurin/releases and scroll until you see Windows and 2 versions MSI and ZIP click zip
 Ask AI to remake this using the adoptium jdk
 
+also,
+=======
+Windows Defender might flag it as a "Threat" but even though I LITERALLY MADE IT. If you think this is actually a virus then probably use TLauncher-Portable
